@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/spie/.dotnet/store/|arch|/|tfm|",
+      "/Users/spie/.nuget/packages"
+    ]
+  }
+}
