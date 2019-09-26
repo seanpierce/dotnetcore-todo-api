@@ -13,3 +13,11 @@ Download the [dotnet core sdk](https://dotnet.microsoft.com/download/dotnet-core
 * Run the API by executing `dotnet run`
 
 Using [Postman](https://www.getpostman.com/) or a similar tool, you can interact with the API to perform all basic CRUD operations.
+
+Routes:
+
+* /api/todoitems        \[POST]
+* /api/todoitems        \[GET]
+* /api/todoitems/{id}   \[GET]
+* /api/todoitems/{id}   \[PUT]
+* /api/todoitems/{id}   \[DELETE]
